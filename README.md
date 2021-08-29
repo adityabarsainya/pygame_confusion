@@ -11,11 +11,7 @@ and involving.
 
 # Implementation
 
-1:  The motion of the ball is tested with the four motion (arrow) keys with
-    added sound effects.
-2:  A boundary is added to fix the layout of the screen and test the collision
-    conditions.
-3:  Extra obstacles on the screen are generated at regular intervals using the
-    random function.
-4:  The opening and ending screens to stay in the game or leave and other
-    features that enhance the appearance are included.
+1:  The motion of the ball is tested with the four motion (arrow) keys with added sound effects.<br />
+2:  A boundary is added to fix the layout of the screen and test the collisionconditions.<br />
+3:  Extra obstacles on the screen are generated at regular intervals using the random function.<br />
+4:  The opening and ending screens to stay in the game or leave and other features that enhance the appearance are included.<br />
